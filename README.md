@@ -1,2 +1,2 @@
-## This is the first project I built in Visual Basic. It was a class project to buid a program that takes in user input and outputs information with analysis based on the user's 
-## input. 
+### This is the first project I built in Visual Basic. It was a class project to buid a program that takes in user input and outputs information with analysis based on the user's input. I build a program that takes in the number of hours a user sleeps and works out daily and provided a message related to their weekly average to motivate them. Looking back, there is a lot of improvement that can be done to it, but it was a good challenging program to dip my toes into programming.  
+
